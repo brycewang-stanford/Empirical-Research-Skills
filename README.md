@@ -1,4 +1,4 @@
-# Auto-Empirical Research Skills (AERS)
+# Auto-Empirical Research Skills (AERS, 23K+ Skills)
 
 > [!NOTE]
 > **Repository renamed → now "Auto".** This project started life as *Awesome Agent Skills for Empirical Research* and has been renamed to **Auto-Empirical-Research-Skills (AERS)**. The new name reflects the core idea: not just a *collection* of skills, but an agent that **automatically runs the full empirical-research pipeline end to end** — from raw data cleaning → identification & estimation → robustness checks → tables, figures, and a submission-ready draft — with minimal human hand-holding.
